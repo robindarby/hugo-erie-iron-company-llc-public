@@ -28,8 +28,7 @@ run:
     shell: bash
 
 jobs:
-# Build job
-build:
+  build:
     runs-on: ubuntu-latest
     env:
     HUGO_VERSION: 0.142.0
