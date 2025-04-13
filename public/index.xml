@@ -1,11 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Erie Iron Company</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Erie Iron Company</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 12 Apr 2025 12:05:39 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Services We Offer</title>
+      <link>http://localhost:1313/docs/services/</link>
+      <pubDate>Sat, 12 Apr 2025 11:38:27 -0600</pubDate>
+      <guid>http://localhost:1313/docs/services/</guid>
+      <description>&lt;p&gt;We offer a set of targeted, high-impact consulting packages designed to solve architectural challenges, optimize infrastructure, and accelerate delivery. Each package is scoped, repeatable, and designed to deliver immediate value.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;architecture-health-check&#34;&gt;Architecture Health Check &lt;a href=&#34;#architecture-health-check&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2–3 weeks&lt;br&gt;&#xA;&lt;strong&gt;Price:&lt;/strong&gt; $7,500 – $15,000&lt;/p&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview &lt;a href=&#34;#overview&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Identify systemic risks, inefficiencies, and growth blockers in your current architecture. Perfect for teams scaling fast or fighting technical debt.&lt;/p&gt;&#xA;&lt;h3 id=&#34;whats-included&#34;&gt;What’s Included &lt;a href=&#34;#whats-included&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;Architecture &amp;amp; codebase review&lt;/li&gt;&#xA;&lt;li&gt;CI/CD and cloud infrastructure analysis&lt;/li&gt;&#xA;&lt;li&gt;Security posture evaluation&lt;/li&gt;&#xA;&lt;li&gt;Performance tuning opportunities&lt;/li&gt;&#xA;&lt;li&gt;Priority-ranked roadmap of recommendations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;📞 &lt;a href=&#34;mailto:robindarby@mac.com&#34; rel=&#34;external&#34; target=&#34;_blank&#34;&gt;Book a Free Discovery Call&lt;svg width=&#34;16&#34; height=&#34;16&#34; viewBox=&#34;0 0 24 24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Architectural Process</title>
+      <link>http://localhost:1313/docs/arch-process/</link>
+      <pubDate>Sat, 12 Apr 2025 11:38:27 -0600</pubDate>
+      <guid>http://localhost:1313/docs/arch-process/</guid>
+      <description>&lt;h2 id=&#34;our-architecture-process-the-real-world-version&#34;&gt;Our Architecture Process (The Real-World Version) &lt;a href=&#34;#our-architecture-process-the-real-world-version&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Welcome to the way we do software architecture: grounded in reality, driven by business needs, and shaped by our domain. This isn’t ivory-tower modeling—it’s a working process that grows alongside the system and the team.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-understand-the-drivers-before-writing-diagrams&#34;&gt;1. Understand the Drivers (Before Writing Diagrams) &lt;a href=&#34;#1-understand-the-drivers-before-writing-diagrams&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What we’re doing here:&lt;/strong&gt; We figure out what really matters before diving into tech. That means:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What do users want?&lt;/li&gt;&#xA;&lt;li&gt;What makes the business tick?&lt;/li&gt;&#xA;&lt;li&gt;What can’t we break (regulations, data models, expectations)?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;How we do it:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/docs/about/</link>
+      <pubDate>Sat, 12 Apr 2025 12:05:39 -0600</pubDate>
+      <guid>http://localhost:1313/docs/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Example Page</title>
+      <link>http://localhost:1313/articles/example-page/</link>
+      <pubDate>Sat, 12 Apr 2025 11:39:32 -0600</pubDate>
+      <guid>http://localhost:1313/articles/example-page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>http://localhost:1313/articles/home/</link>
+      <pubDate>Sat, 12 Apr 2025 09:12:44 -0600</pubDate>
+      <guid>http://localhost:1313/articles/home/</guid>
+      <description>&lt;pre&gt;&#xA;&#xA;&#xA;The product of 6 and 7 is 42.&#xA;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Sat, 12 Apr 2025 09:10:16 -0600</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legal</title>
+      <link>http://localhost:1313/legal/</link>
+      <pubDate>Sat, 12 Apr 2025 09:10:10 -0600</pubDate>
+      <guid>http://localhost:1313/legal/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

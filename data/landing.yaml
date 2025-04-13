@@ -1,0 +1,55 @@
+
+hero:
+  enable: true
+  weight: 10
+  template: hero
+  title: "Erie Iron Company"
+  subtitle: "System Architect & Consulting"
+  info: "Helping engineering teams modernize architecture, cut cloud costs, and scale platforms with confidence."
+  backgroundImage:
+    path: "images/templates/hero"
+    filename:
+      desktop: "gradient-desktop.webp"
+      mobile: "gradient-mobile.webp"
+  ctaButton:
+    icon: rocket_launch
+    btnText: "Explore Services"
+    url: "/docs/services"
+  cta2Button:
+    icon: contact_page
+    btnText: "Contact Us"
+    url: "/docs/contact"
+  image:
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "lotus_docs_screenshot.png" # filename of your hero image (including file extension)
+    alt: "Lotus Docs Screenshot" # Optional but recommended
+    boxShadow: true # default 'false' (excludes .svg images)
+    rounded: true # round the image corners? default 'false' (excludes .svg images)
+
+
+featureGrid:
+  enable: true
+  weight: 20
+  template: feature grid
+  title: "Consulting Services"
+  subtitle: "Tailored solutions to meet your architectural and operational needs."
+  items:
+    - title: "Architecture Health Check"
+      icon: insights
+      description: "Comprehensive analysis to identify risks and inefficiencies in your current system architecture."
+      ctaLink:
+        text: "Learn More"
+        url: "/docs/services#architecture-health-check"
+    - title: "Cloud Cost Optimization"
+      icon: savings
+      description: "Strategies to reduce cloud expenditure without compromising performance."
+      ctaLink:
+        text: "Learn More"
+        url: "/docs/services#cloud-cost-optimization"
+    - title: "DevOps Platform Bootstrapping"
+      icon: build
+      description: "Set up robust CI/CD pipelines and infrastructure as code for seamless deployments."
+      ctaLink:
+        text: "Learn More"
+        url: "/docs/services/#devops-architecture-in-a-box"
+
