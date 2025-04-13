@@ -53,3 +53,8 @@ featureGrid:
         text: "Learn More"
         url: "/docs/services/#devops-architecture-in-a-box"
 
+imageCompare:
+  enable: false
+
+imageText:
+  enable: false
