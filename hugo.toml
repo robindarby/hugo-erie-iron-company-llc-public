@@ -7,32 +7,11 @@ theme = 'lotusdocs'
 #  [caches.images]
 #    dir = ':cacheDir/images'
 
-[menus]
-  [[menus.footer]]
-    name = 'Legal'
-    pageRef = '/legal'
+[[menu.primary]]
+    name  = "Docs"
+    url = "/docs/"
+    identifier = "docs"
     weight = 10
-  [[menus.footer]]
-    name = 'Privacy'
-    pageRef = '/privacy'
-    weight = 20
-  [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-  [[menus.main]]
-    name = 'Services'
-    pageRef = '/services/home'
-    weight = 20
-  [[menus.main]]
-    name = 'Articles'
-    pageRef = '/articles/home'
-    weight = 30
-  [[menus.main]]
-    name = 'Our Architectural Process'
-    pageRef = '/articles/arch-process'
-    parent = 'Articles'
-    weight = 1
 
 [security]
   enableInlineShortcodes = true
